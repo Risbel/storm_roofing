@@ -1,5 +1,4 @@
 import Image from "next/image";
-import blueHouseImg from "../../public/blue-house-3.JPEG";
 
 const TextContent = () => {
   const items = [
@@ -50,9 +49,9 @@ const SideImage = () => {
     <div className="relative hidden md:block md:col-span-7 w-full">
       <div className="absolute inset-0 bg-who-are-we-card z-10"></div>
       <Image
-        className="object-cover h-[320px] w-full"
+        className="object-cover h-[360px] w-full"
         alt="Blue roof house"
-        src={blueHouseImg}
+        src="/blue-house-3.JPEG"
         width={800}
         height={320}
       />
