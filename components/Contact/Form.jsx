@@ -10,7 +10,7 @@ const Form = ({ className }) => {
       className={`w-full max-w-[400px] md:max-w-[700px] px-8 py-4 md:px-12 md:py-6 rounded-[30px] bg-[#b3d1e2] bg-opacity-20 backdrop-blur-sm ${className}`}
     >
       <div className="flex flex-col">
-        <div className="flex flex-col md:flex-row md:items-end gap-4">
+        <div className="flex flex-col md:flex-row md:items-end gap-6">
           <FormControl className="w-full">
             <Label>Name</Label>
             <Input required />
@@ -28,7 +28,7 @@ const Form = ({ className }) => {
         </div>
         <FormControl>
           <Label>Email</Label>
-          <Input type="email" required />
+          <Input className="max-w-[460px]" type="email" required />
         </FormControl>
         <FormControl>
           <Label>Message</Label>
