@@ -6,7 +6,12 @@ module.exports = {
     "./components/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        "who-are-we-card":
+          "linear-gradient(to right, #142245 0%, #142245 1%, rgba(140, 224, 246, 0) 100%);",
+      },
+    },
   },
   plugins: [],
 };
