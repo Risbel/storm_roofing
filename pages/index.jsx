@@ -3,6 +3,7 @@ import Head from "next/head";
 import Navbar from "../components/Navbar";
 import { Hero } from "../components/Hero";
 import { AboutUs } from "../components/WhoAreWe/AboutUs";
+import Contact from "../components/Contact";
 
 const Home = () => {
   return (
@@ -19,6 +20,12 @@ const Home = () => {
       <main>
         <Hero />
         <AboutUs />
+
+        {/* TODO: Remove this offset when galery is added */}
+        <div className="h-96 bg-white"></div>
+        {/*  */}
+
+        <Contact />
       </main>
     </>
   );
