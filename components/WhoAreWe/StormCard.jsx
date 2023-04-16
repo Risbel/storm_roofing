@@ -32,12 +32,8 @@ const TextContent = () => {
     <ul className="pl-8 md:pl-16 pr-4 py-8 space-y-3">
       {items.map((item) => (
         <li key={item.id} className="">
-          <span className="font-bold text-5xl text-[#2abce2]">
-            {item.letter}
-          </span>
-          <span className="font-bold text-3xl text-[#006fac] uppercase">
-            {item.content}
-          </span>
+          <span className="font-bold text-3xl lg:text-5xl text-[#2abce2]">{item.letter}</span>
+          <span className="font-bold text-xl lg:text-3xl text-[#006fac] uppercase">{item.content}</span>
         </li>
       ))}
     </ul>
@@ -62,7 +58,7 @@ const SideImage = () => {
 const StormCard = () => {
   return (
     <div className="w-full border-4 border-[#2abce2] rounded-[42px] overflow-x-hidden">
-      <div className="flex gap-28">
+      <div className="flex justify-center items-center gap-28">
         <div className="shrink-0">
           <TextContent />
         </div>
