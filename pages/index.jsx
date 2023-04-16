@@ -1,6 +1,8 @@
 import Head from "next/head";
+import Navbar from "../components/Navbar";
+import { Hero } from "../components/Hero";
 
-export default function Home() {
+const Home = () => {
   return (
     <>
       <Head>
@@ -9,9 +11,15 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className="min-h-screen">
-        <h1 className="text-3xl text-red-500">Welcome</h1>
+
+      <main>
+        <header>
+          <Navbar />
+        </header>
+        <Hero />
       </main>
     </>
   );
-}
+};
+
+export default Home;

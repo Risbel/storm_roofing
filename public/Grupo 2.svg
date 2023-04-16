@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144.417" height="145.377" viewBox="0 0 144.417 145.377">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #237ec3;
+        stroke-linecap: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="Grupo_2" data-name="Grupo 2" transform="translate(2.121 2.121)">
+    <line id="Línea_1" data-name="Línea 1" class="cls-1" x1="140.174" y2="141.134" transform="translate(0 0)"/>
+    <line id="Línea_2" data-name="Línea 2" class="cls-1" x1="121.932" y2="121.932" transform="translate(17.282 19.202)"/>
+    <line id="Línea_3" data-name="Línea 3" class="cls-1" x1="102.73" y2="103.69" transform="translate(36.484 37.444)"/>
+    <line id="Línea_4" data-name="Línea 4" class="cls-1" x1="84.489" y2="84.489" transform="translate(54.726 56.646)"/>
+    <line id="Línea_5" data-name="Línea 5" class="cls-1" x1="64.326" y2="64.326" transform="translate(74.888 76.808)"/>
+    <line id="Línea_6" data-name="Línea 6" class="cls-1" x1="44.164" y2="44.164" transform="translate(95.05 96.97)"/>
+    <line id="Línea_7" data-name="Línea 7" class="cls-1" x1="24.963" y2="24.963" transform="translate(114.252 116.172)"/>
+    <line id="Línea_8" data-name="Línea 8" class="cls-1" x1="9.601" y2="9.601" transform="translate(129.613 131.533)"/>
+    <line id="Línea_9" data-name="Línea 9" class="cls-1" y1="141.134" x2="140.174" transform="translate(0 0)"/>
+    <line id="Línea_10" data-name="Línea 10" class="cls-1" y1="121.932" x2="121.932" transform="translate(0.96 0)"/>
+    <line id="Línea_11" data-name="Línea 11" class="cls-1" y1="103.69" x2="102.73" transform="translate(0.96 0)"/>
+    <line id="Línea_12" data-name="Línea 12" class="cls-1" y1="84.489" x2="84.489" transform="translate(0.96 0)"/>
+    <line id="Línea_13" data-name="Línea 13" class="cls-1" y1="64.326" x2="64.326" transform="translate(0.96 0)"/>
+    <line id="Línea_14" data-name="Línea 14" class="cls-1" y1="44.164" x2="44.164" transform="translate(0.96 0)"/>
+    <line id="Línea_15" data-name="Línea 15" class="cls-1" y1="24.963" x2="24.963" transform="translate(0.96 0)"/>
+    <line id="Línea_16" data-name="Línea 16" class="cls-1" y1="9.601" x2="9.601" transform="translate(0.96 0)"/>
+  </g>
+</svg>

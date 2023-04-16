@@ -1,0 +1,73 @@
+<svg id="Grupo_1" data-name="Grupo 1" xmlns="http://www.w3.org/2000/svg" width="255" height="255" viewBox="0 0 255 255">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #237ec3;
+      }
+    </style>
+  </defs>
+  <circle id="Elipse_1" data-name="Elipse 1" class="cls-1" cx="3.5" cy="3.5" r="3.5"/>
+  <ellipse id="Elipse_2" data-name="Elipse 2" class="cls-1" cx="3" cy="3.5" rx="3" ry="3.5" transform="translate(36)"/>
+  <circle id="Elipse_3" data-name="Elipse 3" class="cls-1" cx="3.5" cy="3.5" r="3.5" transform="translate(71)"/>
+  <ellipse id="Elipse_4" data-name="Elipse 4" class="cls-1" cx="3" cy="3.5" rx="3" ry="3.5" transform="translate(107)"/>
+  <circle id="Elipse_5" data-name="Elipse 5" class="cls-1" cx="3.5" cy="3.5" r="3.5" transform="translate(142)"/>
+  <ellipse id="Elipse_6" data-name="Elipse 6" class="cls-1" cx="3" cy="3.5" rx="3" ry="3.5" transform="translate(178)"/>
+  <circle id="Elipse_7" data-name="Elipse 7" class="cls-1" cx="3.5" cy="3.5" r="3.5" transform="translate(213)"/>
+  <ellipse id="Elipse_8" data-name="Elipse 8" class="cls-1" cx="3" cy="3.5" rx="3" ry="3.5" transform="translate(249)"/>
+  <ellipse id="Elipse_9" data-name="Elipse 9" class="cls-1" cx="3.5" cy="3" rx="3.5" ry="3" transform="translate(0 36)"/>
+  <circle id="Elipse_10" data-name="Elipse 10" class="cls-1" cx="3" cy="3" r="3" transform="translate(36 36)"/>
+  <ellipse id="Elipse_11" data-name="Elipse 11" class="cls-1" cx="3.5" cy="3" rx="3.5" ry="3" transform="translate(71 36)"/>
+  <circle id="Elipse_12" data-name="Elipse 12" class="cls-1" cx="3" cy="3" r="3" transform="translate(107 36)"/>
+  <ellipse id="Elipse_13" data-name="Elipse 13" class="cls-1" cx="3.5" cy="3" rx="3.5" ry="3" transform="translate(142 36)"/>
+  <circle id="Elipse_14" data-name="Elipse 14" class="cls-1" cx="3" cy="3" r="3" transform="translate(178 36)"/>
+  <ellipse id="Elipse_15" data-name="Elipse 15" class="cls-1" cx="3.5" cy="3" rx="3.5" ry="3" transform="translate(213 36)"/>
+  <circle id="Elipse_16" data-name="Elipse 16" class="cls-1" cx="3" cy="3" r="3" transform="translate(249 36)"/>
+  <circle id="Elipse_17" data-name="Elipse 17" class="cls-1" cx="3.5" cy="3.5" r="3.5" transform="translate(0 71)"/>
+  <ellipse id="Elipse_18" data-name="Elipse 18" class="cls-1" cx="3" cy="3.5" rx="3" ry="3.5" transform="translate(36 71)"/>
+  <circle id="Elipse_19" data-name="Elipse 19" class="cls-1" cx="3.5" cy="3.5" r="3.5" transform="translate(71 71)"/>
+  <ellipse id="Elipse_20" data-name="Elipse 20" class="cls-1" cx="3" cy="3.5" rx="3" ry="3.5" transform="translate(107 71)"/>
+  <circle id="Elipse_21" data-name="Elipse 21" class="cls-1" cx="3.5" cy="3.5" r="3.5" transform="translate(142 71)"/>
+  <ellipse id="Elipse_22" data-name="Elipse 22" class="cls-1" cx="3" cy="3.5" rx="3" ry="3.5" transform="translate(178 71)"/>
+  <circle id="Elipse_23" data-name="Elipse 23" class="cls-1" cx="3.5" cy="3.5" r="3.5" transform="translate(213 71)"/>
+  <ellipse id="Elipse_24" data-name="Elipse 24" class="cls-1" cx="3" cy="3.5" rx="3" ry="3.5" transform="translate(249 71)"/>
+  <ellipse id="Elipse_25" data-name="Elipse 25" class="cls-1" cx="3.5" cy="3" rx="3.5" ry="3" transform="translate(0 107)"/>
+  <circle id="Elipse_26" data-name="Elipse 26" class="cls-1" cx="3" cy="3" r="3" transform="translate(36 107)"/>
+  <ellipse id="Elipse_27" data-name="Elipse 27" class="cls-1" cx="3.5" cy="3" rx="3.5" ry="3" transform="translate(71 107)"/>
+  <circle id="Elipse_28" data-name="Elipse 28" class="cls-1" cx="3" cy="3" r="3" transform="translate(107 107)"/>
+  <ellipse id="Elipse_29" data-name="Elipse 29" class="cls-1" cx="3.5" cy="3" rx="3.5" ry="3" transform="translate(142 107)"/>
+  <circle id="Elipse_30" data-name="Elipse 30" class="cls-1" cx="3" cy="3" r="3" transform="translate(178 107)"/>
+  <ellipse id="Elipse_31" data-name="Elipse 31" class="cls-1" cx="3.5" cy="3" rx="3.5" ry="3" transform="translate(213 107)"/>
+  <circle id="Elipse_32" data-name="Elipse 32" class="cls-1" cx="3" cy="3" r="3" transform="translate(249 107)"/>
+  <circle id="Elipse_33" data-name="Elipse 33" class="cls-1" cx="3.5" cy="3.5" r="3.5" transform="translate(0 142)"/>
+  <ellipse id="Elipse_34" data-name="Elipse 34" class="cls-1" cx="3" cy="3.5" rx="3" ry="3.5" transform="translate(36 142)"/>
+  <circle id="Elipse_35" data-name="Elipse 35" class="cls-1" cx="3.5" cy="3.5" r="3.5" transform="translate(71 142)"/>
+  <ellipse id="Elipse_36" data-name="Elipse 36" class="cls-1" cx="3" cy="3.5" rx="3" ry="3.5" transform="translate(107 142)"/>
+  <circle id="Elipse_37" data-name="Elipse 37" class="cls-1" cx="3.5" cy="3.5" r="3.5" transform="translate(142 142)"/>
+  <ellipse id="Elipse_38" data-name="Elipse 38" class="cls-1" cx="3" cy="3.5" rx="3" ry="3.5" transform="translate(178 142)"/>
+  <circle id="Elipse_39" data-name="Elipse 39" class="cls-1" cx="3.5" cy="3.5" r="3.5" transform="translate(213 142)"/>
+  <ellipse id="Elipse_40" data-name="Elipse 40" class="cls-1" cx="3" cy="3.5" rx="3" ry="3.5" transform="translate(249 142)"/>
+  <ellipse id="Elipse_41" data-name="Elipse 41" class="cls-1" cx="3.5" cy="3" rx="3.5" ry="3" transform="translate(0 178)"/>
+  <circle id="Elipse_42" data-name="Elipse 42" class="cls-1" cx="3" cy="3" r="3" transform="translate(36 178)"/>
+  <ellipse id="Elipse_43" data-name="Elipse 43" class="cls-1" cx="3.5" cy="3" rx="3.5" ry="3" transform="translate(71 178)"/>
+  <circle id="Elipse_44" data-name="Elipse 44" class="cls-1" cx="3" cy="3" r="3" transform="translate(107 178)"/>
+  <ellipse id="Elipse_45" data-name="Elipse 45" class="cls-1" cx="3.5" cy="3" rx="3.5" ry="3" transform="translate(142 178)"/>
+  <circle id="Elipse_46" data-name="Elipse 46" class="cls-1" cx="3" cy="3" r="3" transform="translate(178 178)"/>
+  <ellipse id="Elipse_47" data-name="Elipse 47" class="cls-1" cx="3.5" cy="3" rx="3.5" ry="3" transform="translate(213 178)"/>
+  <circle id="Elipse_48" data-name="Elipse 48" class="cls-1" cx="3" cy="3" r="3" transform="translate(249 178)"/>
+  <circle id="Elipse_49" data-name="Elipse 49" class="cls-1" cx="3.5" cy="3.5" r="3.5" transform="translate(0 213)"/>
+  <ellipse id="Elipse_50" data-name="Elipse 50" class="cls-1" cx="3" cy="3.5" rx="3" ry="3.5" transform="translate(36 213)"/>
+  <circle id="Elipse_51" data-name="Elipse 51" class="cls-1" cx="3.5" cy="3.5" r="3.5" transform="translate(71 213)"/>
+  <ellipse id="Elipse_52" data-name="Elipse 52" class="cls-1" cx="3" cy="3.5" rx="3" ry="3.5" transform="translate(107 213)"/>
+  <circle id="Elipse_53" data-name="Elipse 53" class="cls-1" cx="3.5" cy="3.5" r="3.5" transform="translate(142 213)"/>
+  <ellipse id="Elipse_54" data-name="Elipse 54" class="cls-1" cx="3" cy="3.5" rx="3" ry="3.5" transform="translate(178 213)"/>
+  <circle id="Elipse_55" data-name="Elipse 55" class="cls-1" cx="3.5" cy="3.5" r="3.5" transform="translate(213 213)"/>
+  <ellipse id="Elipse_56" data-name="Elipse 56" class="cls-1" cx="3" cy="3.5" rx="3" ry="3.5" transform="translate(249 213)"/>
+  <ellipse id="Elipse_57" data-name="Elipse 57" class="cls-1" cx="3.5" cy="3" rx="3.5" ry="3" transform="translate(0 249)"/>
+  <circle id="Elipse_58" data-name="Elipse 58" class="cls-1" cx="3" cy="3" r="3" transform="translate(36 249)"/>
+  <ellipse id="Elipse_59" data-name="Elipse 59" class="cls-1" cx="3.5" cy="3" rx="3.5" ry="3" transform="translate(71 249)"/>
+  <circle id="Elipse_60" data-name="Elipse 60" class="cls-1" cx="3" cy="3" r="3" transform="translate(107 249)"/>
+  <ellipse id="Elipse_61" data-name="Elipse 61" class="cls-1" cx="3.5" cy="3" rx="3.5" ry="3" transform="translate(142 249)"/>
+  <circle id="Elipse_62" data-name="Elipse 62" class="cls-1" cx="3" cy="3" r="3" transform="translate(178 249)"/>
+  <ellipse id="Elipse_63" data-name="Elipse 63" class="cls-1" cx="3.5" cy="3" rx="3.5" ry="3" transform="translate(213 249)"/>
+  <circle id="Elipse_64" data-name="Elipse 64" class="cls-1" cx="3" cy="3" r="3" transform="translate(249 249)"/>
+</svg>
