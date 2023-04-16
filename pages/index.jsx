@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Navbar from "../components/Navbar";
 import { Hero } from "../components/Hero";
+import { AboutUs } from "../components/AboutUs";
 
 const Home = () => {
   return (
@@ -17,6 +18,7 @@ const Home = () => {
           <Navbar />
         </header>
         <Hero />
+        <AboutUs />
       </main>
     </>
   );
