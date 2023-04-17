@@ -3,7 +3,7 @@ import { HeroMobileHalf } from "./HeroMobileHalf";
 
 export const Hero = () => {
   return (
-    <>
+    <section id="home">
       <div className="flex">
         <div className="hidden md:block w-[30%] bg-[#f1f1f1]">
           <div className="flex justify-center py-16">
@@ -64,6 +64,6 @@ export const Hero = () => {
         />
       </div>
       <HeroMobileHalf />
-    </>
+    </section>
   );
 };

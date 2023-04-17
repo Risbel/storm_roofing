@@ -17,7 +17,7 @@ const TextWhoAreWe = () => {
 
 export const AboutUs = () => {
   return (
-    <section className="bg-[#142245] py-4">
+    <section id="about-us" className="bg-[#142245] py-4">
       <div className="md:hidden py-6">
         <WhoAreWe />
       </div>
