@@ -33,7 +33,7 @@ export const AboutUs = () => {
 
             <Image
               className="p-5 md:p-10 z-10 md:min-w-[370px] lg:min-w-[450px] lg:max-h-[500px]  w-full object-cover"
-              src="/car-storm-roofing.bmp"
+              src="/car-storm-roofing.jpeg"
               alt="car"
               width={520}
               height={520}
