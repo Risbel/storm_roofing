@@ -10,7 +10,7 @@ const IconGallery = () => {
 
 export const Gallery = () => {
   return (
-    <section>
+    <section className="bg-[#f1f1f1]">
       <div className="relative flex justify-center py-12 -translate-x-10">
         <div className="absolute font-bold text-[#142245] drop-shadow-lg text-4xl md:text-5xl lg:text-6xl translate-x-10 bottom-14 lg:translate-x-16 lg:bottom-16">
           Gallery
