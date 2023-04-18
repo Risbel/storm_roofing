@@ -33,7 +33,7 @@ const Navbar = () => {
 
   return (
     <nav>
-      <div className="absolute z-40 hidden md:flex justify-end gap-8 w-full md:pr-16 lg:pr-32 pt-16 text-[#f1f1f1] text-lg font-semibold">
+      <div className="absolute z-40 flex flex-col md:flex-row items-end justify-end gap-8 w-full pr-10 md:pr-16 lg:pr-32 pt-10 md:pt-16 text-[#f1f1f1] text-lg font-semibold">
         {navItems.map((item) => (
           <a
             className="hover:drop-shadow-md hover:text-blue-400 hover:underline underline-offset-4"
