@@ -55,7 +55,7 @@ export const Hero = () => {
         />
 
         <Image
-          className="w-screen h-[650px] lg:h-[800px] md:w-[70%]"
+          className="w-screen h-[700px] lg:h-[800px] md:w-[70%]"
           src="/bg-roof.bmp"
           priority
           alt="red roof"
