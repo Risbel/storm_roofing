@@ -1,6 +1,12 @@
 import Image from "next/image";
 
 export const HeroMobileHalf = () => {
+  const handleClick = (e) => {
+    e.preventDefault();
+    const targetSection = document.querySelector("#contact");
+    targetSection.scrollIntoView({ behavior: "smooth" });
+  };
+
   return (
     <div className="md:hidden pt-24 pb-12">
       <div className="text-[#142245] text-center">
@@ -44,7 +50,13 @@ export const HeroMobileHalf = () => {
         </div>
 
         <div className="px-8 py-4">
-          <button className="bg-[#237ec3] py-4 px-12 rounded-xl text-md text-[#f1f1f1]">Contact Now</button>
+          <a
+            onClick={(e) => handleClick(e)}
+            href="#contact"
+            className="bg-[#237ec3] py-4 px-12 rounded-xl text-md text-[#f1f1f1]"
+          >
+            Contact Now
+          </a>
         </div>
       </div>
     </div>
