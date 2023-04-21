@@ -1,16 +1,7 @@
-const Navbar = () => {
-  const handleClick = (event, href) => {
-    event.preventDefault();
+import useHandleScroll from "../hooks/useHandleSroll";
 
-    if (href === "/") {
-      window.scrollTo({ top: 0, behavior: "smooth" });
-    } else {
-      const targetSection = document.querySelector(href);
-      if (targetSection) {
-        targetSection.scrollIntoView({ behavior: "smooth" });
-      }
-    }
-  };
+const Navbar = () => {
+  const handleClickScroll = useHandleScroll();
 
   const navItems = [
     {
@@ -39,7 +30,7 @@ const Navbar = () => {
             className="hover:drop-shadow-md hover:text-blue-400 hover:underline underline-offset-4"
             key={item.label}
             href={item.href}
-            onClick={(event) => handleClick(event, item.href)}
+            onClick={(event) => handleClickScroll(event, item.href)}
           >
             {item.label}
           </a>

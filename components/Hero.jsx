@@ -1,7 +1,10 @@
 import Image from "next/image";
 import { HeroMobileHalf } from "./HeroMobileHalf";
+import useHandleScroll from "../hooks/useHandleSroll";
 
 export const Hero = () => {
+  const handleClickScroll = useHandleScroll();
+
   return (
     <section id="home">
       <div className="flex">
@@ -38,7 +41,12 @@ export const Hero = () => {
                   </div>
                 </div>
                 <div className="flex justify-start px-8 py-4">
-                  <button className=" bg-[#237ec3] py-4 px-20 rounded-xl text-xl text-[#f1f1f1]">Contact Now</button>
+                  <button
+                    onClick={(e) => handleClickScroll(e, "#contact")}
+                    className=" bg-[#237ec3] py-4 px-20 rounded-xl text-xl text-[#f1f1f1]"
+                  >
+                    Contact Now
+                  </button>
                 </div>
               </div>
             </div>

@@ -1,11 +1,8 @@
 import Image from "next/image";
+import useHandleScroll from "../hooks/useHandleSroll";
 
 export const HeroMobileHalf = () => {
-  const handleClick = (e) => {
-    e.preventDefault();
-    const targetSection = document.querySelector("#contact");
-    targetSection.scrollIntoView({ behavior: "smooth" });
-  };
+  const handleClickScroll = useHandleScroll();
 
   return (
     <div className="md:hidden pt-24 pb-12">
@@ -51,7 +48,7 @@ export const HeroMobileHalf = () => {
 
         <div className="px-8 py-4">
           <a
-            onClick={(e) => handleClick(e)}
+            onClick={(e) => handleClickScroll(e, "#contact")}
             href="#contact"
             className="bg-[#237ec3] py-4 px-12 rounded-xl text-md text-[#f1f1f1]"
           >
