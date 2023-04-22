@@ -1,4 +1,5 @@
 import Head from "next/head";
+import { Toaster } from "react-hot-toast";
 
 import Navbar from "../components/Navbar";
 import { Hero } from "../components/Hero";
@@ -23,6 +24,7 @@ const Home = () => {
         <AboutUs />
         <Gallery />
         <Contact />
+        <Toaster position="bottom-right" />
       </main>
     </>
   );
